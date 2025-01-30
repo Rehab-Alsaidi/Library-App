@@ -1,0 +1,127 @@
+﻿@model IEnumerable<Book_Recommendation_System.Models.Book>
+
+@{
+    ViewData["Title"] = "User Dashboard";
+}
+
+<style>
+    .section-header {
+        font-family: 'Your Custom Font', sans-serif;
+        text-transform: uppercase;
+        font-size: 24px;
+        font-weight: bold;
+    }
+
+    .card-columns .card {
+        border: none;
+        border-radius: 10px;
+        overflow: hidden;
+        transition: transform 0.3s;
+    }
+
+        .card-columns .card:hover {
+            transform: scale(1.05);
+        }
+
+    .card-columns .card-body {
+        position: relative;
+        padding: 20px;
+    }
+
+    .card-columns .card-title {
+        font-size: 22px;
+        margin-bottom: 10px;
+        color: #333;
+    }
+
+    .card-columns .btn-details {
+        background-color: #333;
+        color: #fff;
+        border: none;
+        padding: 8px 15px;
+        border-radius: 5px;
+        transition: background-color 0.3s;
+        text-decoration: none;
+    }
+
+        .card-columns .btn-details:hover {
+            background-color: #555;
+        }
+
+    .no-books-message {
+        text-align: center;
+        margin-top: 20px;
+        font-style: italic;
+        color: #333;
+    }
+</style>
+
+<div class="container mt-5">
+    <div class="row">
+        <div class="col-md-12">
+            <h1 class="text-center mb-4">User Dashboard</h1>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-6">
+            <h2 class="mb-3 section-header">
+                <i class="fas fa-heart text-danger"></i> Favorite Books
+            </h2>
+            <div class="card-columns">
+                @if (ViewData["FavoriteBooks"] is IEnumerable<Book_Recommendation_System.Models.Book> favoriteBooks && favoriteBooks.Any())
+                {
+                    foreach (var book in favoriteBooks)
+                    {
+                        <div class="card mb-4" style="background-color: #bdc3c7;">
+                            <div class="card-body">
+                                <h5 class="card-title">@book.Title by @book.Author</h5>
+                                <a asp-action="Details" asp-controller="Book" asp-route-id="@book.ISBN" class="btn btn-light">
+                                    <i class="fas fa-info-circle"></i> View Details
+                                </a>
+                            </div>
+                        </div>
+                    }
+                }
+                else
+                {
+                    <div class="card" style="background-color: #bdc3c7;">
+                        <div class="card-body">
+                            <p class="card-text no-books-message">No favorite books available.</p>
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+
+        <div class="col-md-6">
+            <h2 class="mb-3 section-header">
+                <i class="fas fa-star text-warning"></i> Recommended Books
+            </h2>
+            <div class="card-columns">
+                @if (ViewData["RecommendedBooks"] is IEnumerable<Book_Recommendation_System.Models.Book> recommendedBooks && recommendedBooks.Any())
+                {
+                    foreach (var recommendedBook in recommendedBooks)
+                    {
+                        <div class="card mb-4" style="background-color: #ecf0f1;">
+                            <div class="card-body">
+                                <h5 class="card-title">@recommendedBook.Title by @recommendedBook.Author</h5>
+                                <a asp-action="Details" asp-controller="Book" asp-route-id="@recommendedBook.ISBN" class="btn btn-light">
+                                    <i class="fas fa-info-circle"></i> View Details
+                                </a>
+                            </div>
+                        </div>
+                    }
+                }
+                else
+                {
+                    <div class="card" style="background-color: #ecf0f1;">
+                        <div class="card-body">
+                            <p class="card-text no-books-message">No recommended books available.</p>
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</div>

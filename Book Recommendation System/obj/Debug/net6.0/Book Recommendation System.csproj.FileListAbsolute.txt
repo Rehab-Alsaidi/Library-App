@@ -1,0 +1,1059 @@
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\appsettings.json
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\Book Recommendation System.staticwebassets.runtime.json
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\Book Recommendation System.exe
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\Book Recommendation System.deps.json
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\Book Recommendation System.runtimeconfig.json
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\Book Recommendation System.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\Book Recommendation System.pdb
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\CsvHelper.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\Humanizer.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\JetBrains.Annotations.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\MailKit.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\MessagePack.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\Microsoft.ML.Core.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\Microsoft.ML.Data.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\Microsoft.ML.KMeansClustering.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\Microsoft.ML.PCA.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\Microsoft.ML.StandardTrainers.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\Microsoft.ML.Transforms.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\Microsoft.ML.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\Microsoft.ML.AutoML.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\Microsoft.ML.SearchSpace.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\Microsoft.ML.CpuMath.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\Microsoft.ML.DataView.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\Microsoft.ML.DnnImageFeaturizer.AlexNet.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\Microsoft.ML.DnnImageFeaturizer.ResNet101.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\Microsoft.ML.DnnImageFeaturizer.ResNet18.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\Microsoft.ML.DnnImageFeaturizer.ResNet50.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\Microsoft.ML.FastTree.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\Microsoft.ML.ImageAnalytics.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\Microsoft.ML.LightGbm.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\Microsoft.ML.Mkl.Components.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\Microsoft.ML.OnnxRuntime.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\Microsoft.ML.OnnxTransformer.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\Microsoft.ML.Recommender.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\Microsoft.ML.TensorFlow.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\Microsoft.ML.TimeSeries.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\Microsoft.ML.Tokenizers.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\Microsoft.ML.TorchSharp.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\Microsoft.ML.Vision.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\MimeKit.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\NumSharp.Lite.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\PagedList.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\Protobuf.Text.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\ICSharpCode.SharpZipLib.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\SkiaSharp.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\System.Formats.Asn1.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\TensorFlow.NET.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\TorchSharp.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\X.PagedList.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\X.PagedList.Mvc.Core.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\runtimes\linux-x64\native\lib_lightgbm.so
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\runtimes\osx-x64\native\lib_lightgbm.dylib
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\runtimes\win-x64\native\lib_lightgbm.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\runtimes\win-x64\native\lightgbm.exe
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\runtimes\linux-arm\native\libLdaNative.so
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\runtimes\linux-arm64\native\libLdaNative.so
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\runtimes\linux-x64\native\libLdaNative.so
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\runtimes\osx-arm64\native\libLdaNative.dylib
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\runtimes\osx-x64\native\libLdaNative.dylib
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\runtimes\win-x64\native\LdaNative.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\runtimes\win-x86\native\LdaNative.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\runtimes\linux-x64\native\libFastTreeNative.so
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\runtimes\osx-x64\native\libFastTreeNative.dylib
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\runtimes\win-x64\native\FastTreeNative.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\runtimes\win-x86\native\FastTreeNative.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\runtimes\linux-x64\native\libSymSgdNative.so
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\runtimes\osx-x64\native\libSymSgdNative.dylib
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\runtimes\win-x64\native\SymSgdNative.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\runtimes\win-x86\native\SymSgdNative.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\runtimes\linux-x64\native\libMklImports.so
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\runtimes\linux-x64\native\libMklProxyNative.so
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\runtimes\osx-x64\native\libMklImports.dylib
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\runtimes\osx-x64\native\libMklProxyNative.dylib
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\runtimes\win-x64\native\MklImports.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\runtimes\win-x64\native\MklProxyNative.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\runtimes\win-x64\native\libiomp5md.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\runtimes\win-x86\native\MklImports.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\runtimes\win-x86\native\MklProxyNative.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\runtimes\win-x86\native\libiomp5md.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\runtimes\linux-arm\native\libMatrixFactorizationNative.so
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\runtimes\linux-arm64\native\libMatrixFactorizationNative.so
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\runtimes\linux-x64\native\libMatrixFactorizationNative.so
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\runtimes\osx-arm64\native\libMatrixFactorizationNative.dylib
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\runtimes\osx-x64\native\libMatrixFactorizationNative.dylib
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\runtimes\win-x64\native\MatrixFactorizationNative.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\runtimes\win-x86\native\MatrixFactorizationNative.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\runtimes\linux-x64\native\libLibTorchSharp.so
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\runtimes\osx-x64\native\libLibTorchSharp.dylib
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\bin\Debug\net6.0\runtimes\win-x64\native\LibTorchSharp.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\obj\Debug\net6.0\Book Recommendation System.csproj.AssemblyReference.cache
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\obj\Debug\net6.0\Book Recommendation System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\obj\Debug\net6.0\Book Recommendation System.AssemblyInfoInputs.cache
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\obj\Debug\net6.0\Book Recommendation System.AssemblyInfo.cs
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\obj\Debug\net6.0\Book Recommendation System.csproj.CoreCompileInputs.cache
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\obj\Debug\net6.0\Book Recommendation System.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\obj\Debug\net6.0\Book Recommendation System.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\obj\Debug\net6.0\Book Recommendation System.RazorAssemblyInfo.cache
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\obj\Debug\net6.0\Book Recommendation System.RazorAssemblyInfo.cs
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\obj\Debug\net6.0\staticwebassets\msbuild.Book Recommendation System.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\obj\Debug\net6.0\staticwebassets\msbuild.build.Book Recommendation System.props
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Book Recommendation System.props
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Book Recommendation System.props
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\obj\Debug\net6.0\scopedcss\bundle\Book Recommendation System.styles.css
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\obj\Debug\net6.0\scopedcss\projectbundle\Book Recommendation System.bundle.scp.css
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\obj\Debug\net6.0\Book Recommendation System.csproj.CopyComplete
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\obj\Debug\net6.0\Book Recommendation System.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\obj\Debug\net6.0\refint\Book Recommendation System.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\obj\Debug\net6.0\Book Recommendation System.pdb
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\obj\Debug\net6.0\Book Recommendation System.genruntimeconfig.cache
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System\obj\Debug\net6.0\ref\Book Recommendation System.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\appsettings.json
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\Book Recommendation System.staticwebassets.runtime.json
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\Book Recommendation System.exe
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\Book Recommendation System.deps.json
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\Book Recommendation System.runtimeconfig.json
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\Book Recommendation System.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\Book Recommendation System.pdb
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\CsvHelper.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\Humanizer.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\JetBrains.Annotations.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\MailKit.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\MessagePack.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\Microsoft.ML.Core.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\Microsoft.ML.Data.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\Microsoft.ML.KMeansClustering.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\Microsoft.ML.PCA.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\Microsoft.ML.StandardTrainers.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\Microsoft.ML.Transforms.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\Microsoft.ML.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\Microsoft.ML.AutoML.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\Microsoft.ML.SearchSpace.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\Microsoft.ML.CpuMath.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\Microsoft.ML.DataView.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\Microsoft.ML.DnnImageFeaturizer.AlexNet.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\Microsoft.ML.DnnImageFeaturizer.ResNet101.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\Microsoft.ML.DnnImageFeaturizer.ResNet18.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\Microsoft.ML.DnnImageFeaturizer.ResNet50.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\Microsoft.ML.FastTree.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\Microsoft.ML.ImageAnalytics.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\Microsoft.ML.LightGbm.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\Microsoft.ML.Mkl.Components.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\Microsoft.ML.OnnxRuntime.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\Microsoft.ML.OnnxTransformer.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\Microsoft.ML.Recommender.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\Microsoft.ML.TensorFlow.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\Microsoft.ML.TimeSeries.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\Microsoft.ML.Tokenizers.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\Microsoft.ML.TorchSharp.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\Microsoft.ML.Vision.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\MimeKit.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\NumSharp.Lite.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\PagedList.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\Protobuf.Text.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\ICSharpCode.SharpZipLib.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\SkiaSharp.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\System.Formats.Asn1.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\TensorFlow.NET.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\TorchSharp.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\X.PagedList.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\X.PagedList.Mvc.Core.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\runtimes\linux-x64\native\lib_lightgbm.so
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\runtimes\osx-x64\native\lib_lightgbm.dylib
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\runtimes\win-x64\native\lib_lightgbm.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\runtimes\win-x64\native\lightgbm.exe
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\runtimes\linux-arm\native\libLdaNative.so
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\runtimes\linux-arm64\native\libLdaNative.so
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\runtimes\linux-x64\native\libLdaNative.so
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\runtimes\osx-arm64\native\libLdaNative.dylib
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\runtimes\osx-x64\native\libLdaNative.dylib
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\runtimes\win-x64\native\LdaNative.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\runtimes\win-x86\native\LdaNative.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\runtimes\linux-x64\native\libFastTreeNative.so
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\runtimes\osx-x64\native\libFastTreeNative.dylib
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\runtimes\win-x64\native\FastTreeNative.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\runtimes\win-x86\native\FastTreeNative.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\runtimes\linux-x64\native\libSymSgdNative.so
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\runtimes\osx-x64\native\libSymSgdNative.dylib
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\runtimes\win-x64\native\SymSgdNative.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\runtimes\win-x86\native\SymSgdNative.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\runtimes\linux-x64\native\libMklImports.so
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\runtimes\linux-x64\native\libMklProxyNative.so
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\runtimes\osx-x64\native\libMklImports.dylib
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\runtimes\osx-x64\native\libMklProxyNative.dylib
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\runtimes\win-x64\native\MklImports.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\runtimes\win-x64\native\MklProxyNative.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\runtimes\win-x64\native\libiomp5md.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\runtimes\win-x86\native\MklImports.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\runtimes\win-x86\native\MklProxyNative.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\runtimes\win-x86\native\libiomp5md.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\runtimes\linux-arm\native\libMatrixFactorizationNative.so
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\runtimes\linux-arm64\native\libMatrixFactorizationNative.so
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\runtimes\linux-x64\native\libMatrixFactorizationNative.so
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\runtimes\osx-arm64\native\libMatrixFactorizationNative.dylib
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\runtimes\osx-x64\native\libMatrixFactorizationNative.dylib
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\runtimes\win-x64\native\MatrixFactorizationNative.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\runtimes\win-x86\native\MatrixFactorizationNative.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\runtimes\linux-x64\native\libLibTorchSharp.so
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\runtimes\osx-x64\native\libLibTorchSharp.dylib
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\bin\Debug\net6.0\runtimes\win-x64\native\LibTorchSharp.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\obj\Debug\net6.0\Book Recommendation System.csproj.AssemblyReference.cache
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\obj\Debug\net6.0\Book Recommendation System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\obj\Debug\net6.0\Book Recommendation System.AssemblyInfoInputs.cache
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\obj\Debug\net6.0\Book Recommendation System.AssemblyInfo.cs
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\obj\Debug\net6.0\Book Recommendation System.csproj.CoreCompileInputs.cache
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\obj\Debug\net6.0\Book Recommendation System.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\obj\Debug\net6.0\Book Recommendation System.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\obj\Debug\net6.0\Book Recommendation System.RazorAssemblyInfo.cache
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\obj\Debug\net6.0\Book Recommendation System.RazorAssemblyInfo.cs
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\obj\Debug\net6.0\staticwebassets\msbuild.Book Recommendation System.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\obj\Debug\net6.0\staticwebassets\msbuild.build.Book Recommendation System.props
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Book Recommendation System.props
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Book Recommendation System.props
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\obj\Debug\net6.0\scopedcss\bundle\Book Recommendation System.styles.css
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\obj\Debug\net6.0\scopedcss\projectbundle\Book Recommendation System.bundle.scp.css
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\obj\Debug\net6.0\Book Recommendation System.csproj.CopyComplete
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\obj\Debug\net6.0\Book Recommendation System.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\obj\Debug\net6.0\refint\Book Recommendation System.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\obj\Debug\net6.0\Book Recommendation System.pdb
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\obj\Debug\net6.0\Book Recommendation System.genruntimeconfig.cache
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy\obj\Debug\net6.0\ref\Book Recommendation System.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\appsettings.json
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\Book Recommendation System.staticwebassets.runtime.json
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\Book Recommendation System.exe
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\Book Recommendation System.deps.json
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\Book Recommendation System.runtimeconfig.json
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\Book Recommendation System.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\Book Recommendation System.pdb
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\CsvHelper.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\Humanizer.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\JetBrains.Annotations.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\MailKit.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\MessagePack.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\Microsoft.ML.Core.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\Microsoft.ML.Data.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\Microsoft.ML.KMeansClustering.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\Microsoft.ML.PCA.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\Microsoft.ML.StandardTrainers.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\Microsoft.ML.Transforms.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\Microsoft.ML.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\Microsoft.ML.AutoML.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\Microsoft.ML.SearchSpace.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\Microsoft.ML.CpuMath.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\Microsoft.ML.DataView.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\Microsoft.ML.DnnImageFeaturizer.AlexNet.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\Microsoft.ML.DnnImageFeaturizer.ResNet101.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\Microsoft.ML.DnnImageFeaturizer.ResNet18.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\Microsoft.ML.DnnImageFeaturizer.ResNet50.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\Microsoft.ML.FastTree.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\Microsoft.ML.ImageAnalytics.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\Microsoft.ML.LightGbm.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\Microsoft.ML.Mkl.Components.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\Microsoft.ML.OnnxRuntime.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\Microsoft.ML.OnnxTransformer.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\Microsoft.ML.Recommender.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\Microsoft.ML.TensorFlow.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\Microsoft.ML.TimeSeries.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\Microsoft.ML.Tokenizers.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\Microsoft.ML.TorchSharp.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\Microsoft.ML.Vision.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\MimeKit.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\NumSharp.Lite.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\PagedList.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\Protobuf.Text.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\ICSharpCode.SharpZipLib.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\SkiaSharp.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\System.Formats.Asn1.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\TensorFlow.NET.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\TorchSharp.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\X.PagedList.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\X.PagedList.Mvc.Core.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\runtimes\linux-x64\native\lib_lightgbm.so
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\runtimes\osx-x64\native\lib_lightgbm.dylib
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\runtimes\win-x64\native\lib_lightgbm.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\runtimes\win-x64\native\lightgbm.exe
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\runtimes\linux-arm\native\libLdaNative.so
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\runtimes\linux-arm64\native\libLdaNative.so
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\runtimes\linux-x64\native\libLdaNative.so
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\runtimes\osx-arm64\native\libLdaNative.dylib
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\runtimes\osx-x64\native\libLdaNative.dylib
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\runtimes\win-x64\native\LdaNative.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\runtimes\win-x86\native\LdaNative.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\runtimes\linux-x64\native\libFastTreeNative.so
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\runtimes\osx-x64\native\libFastTreeNative.dylib
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\runtimes\win-x64\native\FastTreeNative.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\runtimes\win-x86\native\FastTreeNative.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\runtimes\linux-x64\native\libSymSgdNative.so
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\runtimes\osx-x64\native\libSymSgdNative.dylib
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\runtimes\win-x64\native\SymSgdNative.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\runtimes\win-x86\native\SymSgdNative.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\runtimes\linux-x64\native\libMklImports.so
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\runtimes\linux-x64\native\libMklProxyNative.so
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\runtimes\osx-x64\native\libMklImports.dylib
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\runtimes\osx-x64\native\libMklProxyNative.dylib
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\runtimes\win-x64\native\MklImports.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\runtimes\win-x64\native\MklProxyNative.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\runtimes\win-x64\native\libiomp5md.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\runtimes\win-x86\native\MklImports.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\runtimes\win-x86\native\MklProxyNative.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\runtimes\win-x86\native\libiomp5md.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\runtimes\linux-arm\native\libMatrixFactorizationNative.so
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\runtimes\linux-arm64\native\libMatrixFactorizationNative.so
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\runtimes\linux-x64\native\libMatrixFactorizationNative.so
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\runtimes\osx-arm64\native\libMatrixFactorizationNative.dylib
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\runtimes\osx-x64\native\libMatrixFactorizationNative.dylib
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\runtimes\win-x64\native\MatrixFactorizationNative.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\runtimes\win-x86\native\MatrixFactorizationNative.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\runtimes\linux-x64\native\libLibTorchSharp.so
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\runtimes\osx-x64\native\libLibTorchSharp.dylib
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\bin\Debug\net6.0\runtimes\win-x64\native\LibTorchSharp.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\obj\Debug\net6.0\Book Recommendation System.csproj.AssemblyReference.cache
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\obj\Debug\net6.0\Book Recommendation System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\obj\Debug\net6.0\Book Recommendation System.AssemblyInfoInputs.cache
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\obj\Debug\net6.0\Book Recommendation System.AssemblyInfo.cs
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\obj\Debug\net6.0\Book Recommendation System.csproj.CoreCompileInputs.cache
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\obj\Debug\net6.0\Book Recommendation System.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\obj\Debug\net6.0\Book Recommendation System.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\obj\Debug\net6.0\Book Recommendation System.RazorAssemblyInfo.cache
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\obj\Debug\net6.0\Book Recommendation System.RazorAssemblyInfo.cs
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\obj\Debug\net6.0\staticwebassets\msbuild.Book Recommendation System.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\obj\Debug\net6.0\staticwebassets\msbuild.build.Book Recommendation System.props
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Book Recommendation System.props
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Book Recommendation System.props
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\obj\Debug\net6.0\scopedcss\bundle\Book Recommendation System.styles.css
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\obj\Debug\net6.0\scopedcss\projectbundle\Book Recommendation System.bundle.scp.css
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\obj\Debug\net6.0\Book Recommendation System.csproj.CopyComplete
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\obj\Debug\net6.0\Book Recommendation System.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\obj\Debug\net6.0\refint\Book Recommendation System.dll
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\obj\Debug\net6.0\Book Recommendation System.pdb
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\obj\Debug\net6.0\Book Recommendation System.genruntimeconfig.cache
+C:\Users\rehab\Desktop\BookRS-Web-ML.net\Book Recommendation System - Copy - Copy (2)\obj\Debug\net6.0\ref\Book Recommendation System.dll

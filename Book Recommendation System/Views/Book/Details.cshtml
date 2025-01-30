@@ -1,0 +1,58 @@
+﻿@model Book_Recommendation_System.Models.Book
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>@Model.Title</h1>
+<p>Author: @Model.Author</p>
+<p>Year of Publication: @Model.YearOfPublication</p>
+<p>Publisher: @Model.Publisher</p>
+<p>Rating: @Model.Rating</p>
+
+<!-- Button to add the book to favorites -->
+@if (User.Identity.IsAuthenticated)
+{
+    <form asp-action="AddToFavorites" asp-controller="Book" method="post">
+        <input type="hidden" name="id" value="@Model.ISBN" />
+        <button type="submit">Add to Favorites</button>
+    </form>
+}
+
+<!-- Button to remove the book from favorites -->
+@if (User.Identity.IsAuthenticated)
+{
+    <form asp-action="RemoveFromFavorites" asp-controller="Book" method="post">
+        <input type="hidden" name="id" value="@Model.ISBN" />
+        <button type="submit">Remove from Favorites</button>
+    </form>
+}
+
+<h3 class="text-center mt-4">Recommended Books</h3>
+<ul class="list-group text-center">
+    @{
+        var recommendedBooks = ViewData["RecommendedBooks"] as List<Book_Recommendation_System.Models.Book>;
+        if (recommendedBooks != null && recommendedBooks.Any())
+        {
+            foreach (var recommendedBook in recommendedBooks)
+            {
+                <li class="list-group-item">
+                    <a asp-action="Details" asp-controller="Book" asp-route-id="@recommendedBook.ISBN">
+                        @recommendedBook.Title by @recommendedBook.Author
+                    </a>
+                </li>
+            }
+        }
+        else
+        {
+            <li class="list-group-item">
+                No recommended books available.
+            </li>
+        }
+    }
+</ul>
+
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
